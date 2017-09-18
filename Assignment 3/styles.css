@@ -1,0 +1,75 @@
+body
+{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a9e4f7+0,a9e4f7+33,a9e4f7+33,a9e4f7+42,0fb4e7+100&1+0,0.26+20 */
+background: -moz-linear-gradient(left, rgba(169,228,247,1) 0%, rgba(169,228,247,0.26) 20%, rgba(169,228,247,0.26) 33%, rgba(169,228,247,0.26) 42%, rgba(15,180,231,0.26) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left, rgba(169,228,247,1) 0%,rgba(169,228,247,0.26) 20%,rgba(169,228,247,0.26) 33%,rgba(169,228,247,0.26) 42%,rgba(15,180,231,0.26) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right, rgba(169,228,247,1) 0%,rgba(169,228,247,0.26) 20%,rgba(169,228,247,0.26) 33%,rgba(169,228,247,0.26) 42%,rgba(15,180,231,0.26) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a9e4f7', endColorstr='#420fb4e7',GradientType=1 ); /* IE6-9 */
+}
+
+
+h2
+{
+    color: #008000;
+    margin-left: 250px;
+}
+
+h3
+{
+    color: #B22222;
+    margin-left: 20px;
+}
+
+p
+{
+    width: 850px;
+    margin-left: 20px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+img
+{
+     border: 2px solid crimson;
+     margin-left: 260px;
+     margin-bottom: 20px;
+}
+
+
+.std-paragraph
+{
+    width: 850px;
+    margin-left: 20px;
+    font-size: 20px;
+    text-align: justify;
+    text-indent: 50px;
+}
+
+.img-size
+{
+   width: 400px;
+   height: 500px;
+   margin-left: 20px; 
+}
+
+.aipno-pdf
+{
+    width: 400px;
+    height: 500px;
+    margin-left: 20px;
+    border: 2px solid red;
+    display: inline-block;
+    background-image: url("images/AIPNO PDF Flyer.png");
+    background-size: 400px 500px;
+}
+
+.aipno-html
+{
+    width: 400px;
+    height: 500px;
+    margin-left: 20px;
+    border: 2px solid red;
+    display: inline-block;
+    background-image: url("images/AIPNO HTML Flyer 2.png");
+    background-size: 400px 500px;
+}
