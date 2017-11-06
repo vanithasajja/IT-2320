@@ -1,0 +1,49 @@
+﻿@media screen and (min-width:530px) and (max-width:580px) {
+    div.border {
+        margin-left: 20px;
+    }
+}
+
+@media screen and (min-width:490px) and (max-width:529px) {
+    div.border {
+        margin-left: 0px;
+    }
+}
+
+@media screen and (min-width:400px) and (max-width:489px) {
+    div.border {
+        margin-left: 0px;
+        width: 350px;
+        padding-left: 15px;
+    }
+}
+
+
+.border {
+    border-style: solid;
+    border-radius: 25px;
+    margin: 50px;
+    width: 400px;
+    padding-left: 50px;
+}
+
+.btn {
+    width: 250px;
+    height: 40px;
+}
+
+hr {
+    margin-right: 25px;
+}
+
+.name {
+    width: 200px;
+}
+
+.password {
+    width: 200px;
+}
+
+.mail {
+    width: 200px;
+}
