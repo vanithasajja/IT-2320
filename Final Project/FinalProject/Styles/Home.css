@@ -1,0 +1,131 @@
+﻿@media screen and (min-width:530px) and (max-width:580px) {
+    div.border {
+        margin-left: 20px;
+    }
+}
+
+@media screen and (min-width:490px) and (max-width:529px) {
+    div.border {
+        margin-left: 0px;
+    }
+}
+
+@media screen and (min-width:400px) and (max-width:489px) {
+    div.border {
+        margin-left: 0px;
+        width: 350px;
+        padding-left: 0px;
+    }
+}
+
+
+@media screen and (min-width:300px) and (max-width:399px) {
+    div.border {
+        margin-left: 0px;
+        width: 200px;
+        padding-left: 0px;
+    }
+
+    p.text{
+        visibility: hidden;
+    }
+}
+
+
+
+        .border {
+            border-style: solid;
+            border-radius: 25px;
+            margin: 25px;
+            width: 400px;
+            padding-left: 50px;
+        }
+
+        p.em {
+            font-style: italic;
+        }
+
+        .btn {
+            width: 250px;
+            height: 40px;
+        }
+
+        hr {
+            margin-right: 25px;
+        }
+
+        .usrname, .name {
+            width: 225px;
+            margin-left: 80px;
+        }
+
+        .pword, .word {
+            width: 225px;
+            margin-left: 85px;
+        }
+
+        .mail {
+            width: 225px;
+            margin-left: 45px;
+        }
+
+        .mail2 {
+            width: 225px;
+        }
+
+        .btn1, .btn2 {
+            width: 200px;
+            margin-left: 70px;
+        }
+
+
+        .border {
+            border-style: solid;
+            border-radius: 25px;
+            margin: 25px;
+            margin-top: auto;
+            width: 400px;
+            padding-left: 50px;
+        }
+
+        .border1 {
+            border-style: solid;
+            border-radius: 25px;
+            margin: 25px;
+            width: 500px;
+            padding-left: 50px;
+        }
+
+        .border2 {
+            border-style: solid;
+            margin: 25px;
+            margin-left: 10px;
+            width: 400px;
+            padding-left: 10px;
+        }
+
+        .email {
+            width: 225;
+            margin-left: 10px;
+        }
+
+        .currentGPA {
+            width: 225px;
+            margin-bottom: 20px;
+            margin-left: 20px;
+        }
+
+        .elements {
+            margin-left: 70px;
+        }
+
+        .element, .value {
+            margin-left: 10px;
+            width: 175px;
+        }
+
+        .btn5 {
+            width: 100px;
+            margin-left: 150px;
+            margin-bottom: 20px;
+        }
